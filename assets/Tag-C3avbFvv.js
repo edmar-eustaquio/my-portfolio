@@ -1,1 +1,0 @@
-import{j as r}from"./index-Ct9rUDZ1.js";function o({value:e}){return r.jsx("div",{className:"px-4 rounded-3xl text-emerald-500 bg-gray-700 font-semibold",children:e})}export{o as T};
